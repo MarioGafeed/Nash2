@@ -1,0 +1,33 @@
+@import 'https://fonts.googleapis.com/css?family=Cairo';
+*{font-family: 'Cairo', sans-serif}
+.label, body, h1, h2, h3, h4, h5, h6{font-family: 'Cairo', sans-serif !important; }
+.m-heading-1>p{line-height: 25px}
+.form-control{height: 39px}
+.profile-userpic img{width:auto;height:auto ;}
+.page-header.navbar .page-logo .logo-default{margin: 4px 0px 0px 15px;}
+.border-blue{color:#5c9acf!important}
+.tabbable-line>.nav-tabs>li.active{border-bottom :4px solid #3598dc;}
+.btn.btn-outline.red{
+    border-color: #3598dc;
+    color: #3598dc;}
+.btn.btn-outline.red.active, .btn.btn-outline.red:active, .btn.btn-outline.red:active:focus, .btn.btn-outline.red:active:hover, .btn.btn-outline.red:focus, .btn.btn-outline.red:hover{
+    background-color: #3598dc;
+    border-color: #3598dc;
+}
+.portlet.box.red-sunglo>.portlet-title, .portlet.red-sunglo, .portlet>.portlet-body.red-sunglo{background-color:#3598dc;}
+.portlet.box.red-sunglo{border:1px solid #3598dc}
+.updateBtn:hover{color: #c29d0b;transition:all 0.5s;}
+.removeBtn:hover{color: #e73d4a;transition:all 0.5s;}
+.addBtn,.updateBtn,.removeBtn{color: #fcfcfc;font-size:1.7em;}
+.addBtn:hover{color: #9fd9ff;transition: all 0.5s}
+.page-sidebar .page-sidebar-menu>li.active.open>a, .page-sidebar .page-sidebar-menu>li.active>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active.open>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active>a{    background: rgba(52, 152, 219, 0.8) !important;
+    background: rgba(52, 152, 219, 0.8);
+    color: #fff;
+}
+.page-sidebar .page-sidebar-menu>li.active>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active>a{
+   border-right: 3px solid #3498db!important;
+}
+.page-sidebar .page-sidebar-menu>li.active.open>a>i, .page-sidebar .page-sidebar-menu>li.active>a>i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active.open>a>i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li.active>a>i{
+    color:#fff;
+}
+.dataTables_wrapper .dataTables_length,.dataTables_wrapper .dataTables_info{float: none}

@@ -1,0 +1,351 @@
+/* ==========================================================================================
+  Theme Name: Bizz
+  Author: VS_THEMES
+  Support: visakhinkollam@gmail.com
+  Description: Bizz - Business Consulting and Agency HTML Template
+  Version: 1.0
+========================================================================================== */
+
+
+/*-------------------------------------------------------
+
+    CSS INDEX
+    ===================
+
+    1. Color black 
+    2. Color light white
+    3. Color yellow
+    4. Bg black
+    5. Bg yellow
+    6. Bg light white
+    7. Border Yellow
+    8. Border black
+
+
+-------------------------------------------------------*/
+
+
+/* ....................................
+1. Color black 
+.......................................*/
+
+.black,
+body,
+a,
+a:hover,
+.form-control,
+.btn-black:hover,
+.input-border,
+.nav-links2 li a,
+.search-icon2 i,
+.side-link-ul>li>a i,
+.main-menu-3 li .submenu li a:hover,
+.main-menu-3 ul li a.active,
+.btn-banner-border:hover,
+.main-slider-2.owl-carousel .owl-nav button:hover,
+.each-price:hover .btn,
+.price-main .btn {
+    color: #2f3333;
+}
+
+
+/* ....................................
+2. Color light white
+.......................................*/
+
+.light-white,
+.icon-bg-quote,
+.quote-right-light {
+    color: #f5f5f5;
+}
+
+
+/* ....................................
+3. Color yellow
+.......................................*/
+
+.yellow,
+.banner-main-head a:hover,
+.input-search+i,
+.btn-full:hover,
+.btn-border-out:hover:before,
+.btn-border-out:hover,
+.yello-dot-list li:before,
+.blog-link:hover,
+.blog-data li i,
+.testimonial-slide .owl-nav button:hover,
+.blog-nav a:hover,
+.footer-links li a:hover,
+.btn-small:hover,
+.nav-links2 li a:hover,
+.a-lr-space:hover,
+.main-menu-3>ul>li.active>a,
+.work-each:hover .item-texts h4 a,
+.blog-2-each:hover h3 a,
+.blog-2-each:hover h3 a:hover,
+.btn-banner-border,
+.work-text h3 a:hover,
+.lined-button:hover,
+.nav-blog-detail a:hover,
+.tag-list li a:hover,
+.search-white:hover+i,
+.list-categiry li a:hover,
+.week-count h1,
+.project-img .gallery-links:hover,
+.wht-do-each a:hover,
+.wht-do-each:hover a,
+.faq-more:hover,
+.albun-data-2:hover a,
+.social-icons.white li a:hover,
+.loader  {
+    color: #FF715B;
+}
+
+
+/* ....................................
+4. Bg black
+.......................................*/
+
+.bg-black,
+.slider-imgs:before,
+.fx-menu-wrapper,
+.fx-menu-links>li>a:before,
+.fx-menu-links .submenu li a:before,
+.fx-menu-links::-webkit-scrollbar-thumb,
+.menu-social li a:hover,
+.bg-menu-overlay,
+.each-work,
+.btn-full:hover,
+.each-blog .blog-img,
+.btn-black,
+.btn-small:hover,
+.menu-bars.type-2 span,
+.close-icon span,
+.menu-open-toggle,
+.each-slider-2[data-overlay]::before,
+.main-menu-3 li .submenu,
+.about2[data-overlay]:before,
+.btn-yellow:hover,
+.mobile-menu .mean-nav,
+.right-menu span,
+.error-banner[data-overlay]:before,
+.coming-soon[data-overlay]:before,
+.project-img,
+.wht-do-each,
+.video-start[data-overlay]:before,
+.header-1.fixed-nav,
+.type-3.fixed-nav,
+.price-head .line,
+.close-menu a span    {
+    background: #2f3333;
+}
+
+
+/*black bg opacity classes*/
+
+.bg-black-op-9,
+.type4.fixed-nav {
+    background: rgba(47, 51, 51, 0.9);
+}
+
+.bg-black-op-8,
+.mnsry-work .overlay-full {
+    background: rgba(47, 51, 51, 0.8);
+}
+
+.bg-black-op-7 {
+    background: rgba(47, 51, 51, 0.7);
+}
+
+.bg-black-op-6,
+.blog-2-each:hover .blogoverlay-hover,
+.team-img:before {
+    background: rgba(47, 51, 51, 0.6);
+}
+
+.bg-black-op-5 {
+    background: rgba(47, 51, 51, 0.5);
+}
+
+.bg-black-op-4 {
+    background: rgba(47, 51, 51, 0.4);
+}
+
+.bg-black-op-3,
+.blogoverlay-hover {
+    background: rgba(47, 51, 51, 0.3);
+}
+
+.bg-black-op-2,
+.sidebar-left::-webkit-scrollbar-thumb {
+    background: rgba(47, 51, 51, 0.2);
+}
+
+.bg-black-op-1,
+.footer-social li a {
+    background: rgba(47, 51, 51, 0.1);
+}
+
+.bg-black-op-0 {
+    background: rgba(47, 51, 51, 0);
+}
+
+
+/* ....................................
+5. Bg yellow
+.......................................*/
+
+.bg-yellow,
+.label-default,
+.btn-border-out:before,
+.nav-links1 li a:after,
+.banner .owl-carousel .owl-nav button,
+.btn-black:hover,
+.play-btn,
+.footer-social li a:hover,
+.scroll-btn,
+.menu-bars.type-2,
+.laink-arrow,
+.full-gallery-slide.owl-carousel .owl-nav button,
+.side-link-ul>li>a:hover,
+.side-link-ul>li.active>a,
+.call-to-action[data-overlay]::before,
+.main-menu-3 li .submenu li a:hover,
+.cta-2[data-overlay]:before,
+.quote-nav:hover,
+.btn-yellow,
+.subscribe,
+.main-menu-3 ul li a.active,
+.right-menu,
+.btn-banner-border:hover,
+.plus-btn.plus-btn-center span.h-line,
+.plus-btn.plus-btn-center span.v-line,
+.block-quote-by:before,
+.tag-link:hover,
+.owl-carousel.inner-banner-slider .owl-nav button,
+.post-image-slider.owl-carousel .owl-nav button,
+.pagination-sml li.active a,
+.pagination-sml li a:hover,
+.input-white+.input-group-append .btn,
+.lined-head:before,
+.each-price:hover .btn,
+.each-price:hover .price-head .line,
+.price-main .btn,
+.ctnct-info-icon,
+.line-vd,
+.single-prjt-slide.owl-carousel .owl-nav button,
+.side-link-ul .submenu li a span {
+    background: #FF715B;
+}
+
+
+/*yellow bg opacity classes*/
+
+.bg-yellow-op-9 {
+    background: rgba(255, 113, 91, 0.9);
+}
+
+.bg-yellow-op-8 {
+    background: rgba(255, 113, 91, 0.8);
+}
+
+.bg-yellow-op-7 {
+    background: rgba(255, 113, 91, 0.7);
+}
+
+.bg-yellow-op-6 {
+    background: rgba(255, 113, 91, 0.6);
+}
+
+.bg-yellow-op-5 {
+    background: rgba(255, 113, 91, 0.5);
+}
+
+.bg-yellow-op-4 {
+    background: rgba(255, 113, 91, 0.4);
+}
+
+.bg-yellow-op-3 {
+    background: rgba(255, 113, 91, 0.3);
+}
+
+.bg-yellow-op-2 {
+    background: rgba(255, 113, 91, 0.2);
+}
+
+.bg-yellow-op-1 {
+    background: rgba(255, 113, 91, 0.1);
+}
+
+
+/* ....................................
+6. Bg  light white
+.......................................*/
+
+.bg-light-white,
+.about-me[data-overlay]::before,
+.quote-nav,
+.blog-2[data-overlay]::before,
+.subscribe:hover,
+.flipper .back {
+    background: #f5f5f5;
+}
+
+
+/* ....................................
+7. Border Yellow
+.......................................*/
+
+.border-yellow,
+.btn-border-out,
+.each-work:hover,
+.each-work:before,
+.simple-quote,
+.blog-link:hover,
+.blog-img:before,
+.form-control:focus,
+.full-gallery-slide.owl-carousel .owl-nav button,
+.input-border:focus,
+.work-item:hover .overlay-full,
+.work-each:hover .overlay-full,
+.client-image,
+.happyclients,
+.blog-2-each:hover .blogoverlay-hover,
+.btn-banner-border,
+.mnsry-work .overlay-full,
+.yellow-border,
+.tag-link:hover,
+.blog-tag,
+.pagination-sml li.active a,
+.pagination-sml li a:hover,
+.project-img:before,
+.wht-do-each:before,
+.team-img:before,
+.each-price:hover .overlay,
+.each-album:hover:before,
+.yellow-border-7,
+.single-text .count-single {
+    border-color: #FF715B;
+}
+
+
+/*border left color*/
+
+.happyclients:before {
+    border-left-color: #FF715B;
+}
+
+
+/* ....................................
+8. Border black
+.......................................*/
+
+.border-black,
+.menu-social li a,
+.input-border,
+.btn-filter.active,
+.btn-filter:hover,
+.video-area,
+.black-border {
+    border-color: #2f3333;
+}
